@@ -1,0 +1,15 @@
+C:\Users\dzhan\source\repos\RadixSort\RadixSort\bin\Debug\net7.0\RadixSort.exe
+C:\Users\dzhan\source\repos\RadixSort\RadixSort\bin\Debug\net7.0\RadixSort.deps.json
+C:\Users\dzhan\source\repos\RadixSort\RadixSort\bin\Debug\net7.0\RadixSort.runtimeconfig.json
+C:\Users\dzhan\source\repos\RadixSort\RadixSort\bin\Debug\net7.0\RadixSort.dll
+C:\Users\dzhan\source\repos\RadixSort\RadixSort\bin\Debug\net7.0\RadixSort.pdb
+C:\Users\dzhan\source\repos\RadixSort\RadixSort\obj\Debug\net7.0\RadixSort.csproj.AssemblyReference.cache
+C:\Users\dzhan\source\repos\RadixSort\RadixSort\obj\Debug\net7.0\RadixSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dzhan\source\repos\RadixSort\RadixSort\obj\Debug\net7.0\RadixSort.AssemblyInfoInputs.cache
+C:\Users\dzhan\source\repos\RadixSort\RadixSort\obj\Debug\net7.0\RadixSort.AssemblyInfo.cs
+C:\Users\dzhan\source\repos\RadixSort\RadixSort\obj\Debug\net7.0\RadixSort.csproj.CoreCompileInputs.cache
+C:\Users\dzhan\source\repos\RadixSort\RadixSort\obj\Debug\net7.0\RadixSort.dll
+C:\Users\dzhan\source\repos\RadixSort\RadixSort\obj\Debug\net7.0\refint\RadixSort.dll
+C:\Users\dzhan\source\repos\RadixSort\RadixSort\obj\Debug\net7.0\RadixSort.pdb
+C:\Users\dzhan\source\repos\RadixSort\RadixSort\obj\Debug\net7.0\RadixSort.genruntimeconfig.cache
+C:\Users\dzhan\source\repos\RadixSort\RadixSort\obj\Debug\net7.0\ref\RadixSort.dll
